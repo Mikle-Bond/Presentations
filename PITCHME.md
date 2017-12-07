@@ -6,7 +6,7 @@ https://www.sciencenewsforstudents.org/article/how-these-poison-frogs-avoid-pois
 ---
 
 ## Why poisonous frogs
-## aren't poisonous to themselvs?
+## aren't poisonous to themselves?
 <div class=rcolumn>
 Bondarev Michael  
 418 group
