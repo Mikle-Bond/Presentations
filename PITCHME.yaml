@@ -1,2 +1,4 @@
 footnote: "MIPT, 2017"
+transition: fade
 
+theme-override: PITCHME.css

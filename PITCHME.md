@@ -1,13 +1,16 @@
 ---?image=https://www.sciencenewsforstudents.org/sites/default/files/scald-image/092117_LH_posion-frog_main.jpg
-???
+<div class=comment>
 https://www.sciencenewsforstudents.org/sites/default/files/scald-image/092117_LH_posion-frog_main.jpg
+</div>
 
 ---
 
 ## Why poisonous frogs
 ## aren't poisonous to themselvs?
+<div class=rcolumn>
 Bondarev Michael  
 418 group
+</div>
 
 ---
 
@@ -24,7 +27,6 @@ Bondarev Michael
  - Named 'Epibatidine'
  - Secreted from skin
  - Made from toxic food
---
 ![](1.png)
 ---
 
