@@ -27,6 +27,7 @@ Bondarev Michael
  - Named 'Epibatidine'
  - Secreted from skin
  - Made from toxic food
+
 ![](1.png)
 ---
 
@@ -51,6 +52,7 @@ Bondarev Michael
 
  - Recipe of protein depends on amino-acids
  - Varies between species
+
 ![](4.png)
 ---
 

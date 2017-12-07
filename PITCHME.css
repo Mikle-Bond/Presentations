@@ -8,3 +8,8 @@
 	color: grey;
 }
 
+.reveal section img {
+	border: 0;
+	box-shadow: none;
+}
+
