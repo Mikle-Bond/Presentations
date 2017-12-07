@@ -1,6 +1,6 @@
 ---?image=https://www.sciencenewsforstudents.org/sites/default/files/scald-image/092117_LH_posion-frog_main.jpg
 <div class=comment>
-https://www.sciencenewsforstudents.org/sites/default/files/scald-image/092117_LH_posion-frog_main.jpg
+https://www.sciencenewsforstudents.org/article/how-these-poison-frogs-avoid-poisoning-themselves
 </div>
 
 ---
@@ -60,3 +60,7 @@ Bondarev Michael
 ### “If cats looked like frogs we'd realize what nasty, cruel little bastards they are. <br>Style. That's what people remember.”
 ― Terry Pratchett, Lords and Ladies
 
+---?image=http://ranchodelicioso.com/wp-content/uploads/2013/05/Frog-and-Laika-2.jpg
+<div class=comment>
+http://ranchodelicioso.com/frog-versus-cat/
+</div>
