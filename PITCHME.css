@@ -2,10 +2,13 @@
 	margin-left: 50%;
 }
 .reveal .comment {
-	position: absolute;
+	position: fixed;
 	bottom: 30px;
 	font-size: 14px;
+}
+.reveal .comment a:link {
 	color: grey;
+	background-color: white;
 }
 
 .reveal section img {
